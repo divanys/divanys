@@ -1,6 +1,6 @@
-# wayKaKrasivo
+# тут красиво здесь прекрасно это нужно это важно а питон красивый а эскьюэль прекрасный а сам эрланг великолепен
 <div id="header" align="center">
-  <img src="https://cdn.humoraf.ru/wp-content/uploads/2018/08/gifki-spokojnoj-nochi-2.gif" width="1000"/></div>
+  <img src="https://cdn.humoraf.ru/wp-content/uploads/2018/08/gifki-spokojnoj-nochi-2.gif" width="300"/></div>
   
 
         
@@ -11,4 +11,5 @@
 </div>
 
     
-
+<div id="header" align="center">
+  <img src="https://psv4.userapi.com/c237331/u450673500/docs/d13/9363de65f651/kit.gif?extra=2_OFQfit6l6VVKslCA8YrTYYgNPbQ2UXfLO26Fxv2x9C_xUEjHbAk59p6FnwURyLv0oSrGPz84qTc6YeQm74XRQ5ULAFS7FQa7M0_heXhmcTCRiaePDFuz1oqQKvu45s1NqwskUWpjG37grjB3-jC10LDg" width="100"/> <img src="https://psv4.userapi.com/c237131/u450673500/docs/d3/4f92a859f71c/misha.gif?extra=B2tUR-N6A6sKJlUmaMxfufJ52kl7xU1CaFFVONQip1M4H1pTzaGER0Y6JHgMUdRUXQWkaTDpHePK_JQQOslL9lSL-dkwI74leUn-pv387-34q3dfgBLXnD9vYygddzHdP39LCWXUeoy-fKw8PFEfDjhzsA" width="100"/></div>
