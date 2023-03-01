@@ -1,19 +1,20 @@
-<div id="header" align="center"><h1>ultгдеultгдеultгдеultгдеultгдеultгдеultгдеultгдеult</h1></div>
+<div id="header" align="center"><h1>ultгдеultгдеultгдеultгдеult</h1></div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336ABC7&lines=a+great+programmer+programs)](https://git.io/typing-svg)
+
+![Python](https://img.shields.io/badge/-Python-010006?style=for-the-badge&logo=python)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-010006?style=for-the-badge&logo=postgresql)
+![JS](https://img.shields.io/badge/-JS-010006?style=for-the-badge&logo=javascript)
+![C++](https://img.shields.io/badge/-C++-010006?style=for-the-badge&logo=c++)
+
+
+  
 <div id="header" align="center">
   <img src="https://github.com/divanys/divanys/blob/main/forPhoto/bttv_hlam-512px-7origs.gif" width="100" align="left" фроги прыгает во все 4 стороны>
   <img src="https://github.com/divanys/divanys/blob/main/forPhoto/bttv_hlam-512px-10.gif" width="100">
   <img src="https://github.com/divanys/divanys/blob/main/forPhoto/bttv_hlam-512px-7.gif" width="100" align="right" фроги прыгает во все 4 стороны>
 </div>
   
-
-        
-<div id="badges" align="center">
-  <a href="https://vk.com/go_fnck_stnpid">
-   прекрасное красивое
-  </a>
-</div>
-
-    
 <div id="header" align="center">
   <img src="https://github.com/divanys/divanys/blob/main/forPhoto/bttv_hlam-512px-2.gif" width="100" котик>
   <img src="https://github.com/divanys/divanys/blob/main/forPhoto/bttv_hlam-512px-4.gif" width="100" фроги с палками>
@@ -28,4 +29,3 @@
     <img src="https://github.com/divanys/divanys/blob/main/forPhoto/bttv_hlam-512px-7-copy-1.gif" width="100" align="left" фроги прыгает во все 4 стороны>
     <img src="https://github.com/divanys/divanys/blob/main/forPhoto/bttv_hlam-512px-7-copy-0.gif" width="100" align="right" фроги прыгает во все 4 стороны>
 </div>
-
