@@ -3,12 +3,20 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336ABC7&lines=a+great+programmer+programs)](https://git.io/typing-svg)
 
 ![Python](https://img.shields.io/badge/-Python-010006?style=for-the-badge&logo=python)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-010006?style=for-the-badge&logo=postgresql)
+![NumPy](https://img.shields.io/badge/-NumPy-010006?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-010006?style=for-the-badge&logo=pandas)
+![Django](https://img.shields.io/badge/-Django-010006?style=for-the-badge&logo=django)
 ![JS](https://img.shields.io/badge/-JS-010006?style=for-the-badge&logo=javascript)
-![C++](https://img.shields.io/badge/-C++-010006?style=for-the-badge&logo=c++)
+![PHP](https://img.shields.io/badge/-PHP-010006?style=for-the-badge&logo=php)
+![Erlang](https://img.shields.io/badge/-Erlang-010006?style=for-the-badge&logo=erlang)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-010006?style=for-the-badge&logo=postgresql)
+![Sql](https://img.shields.io/badge/-SQLite-010006?style=for-the-badge&logo=sqlite)
+![C++](https://img.shields.io/badge/-C++-010006?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/-Java-010006?style=for-the-badge&logo=java)
 
 
-  
+
+
 <div id="header" align="center">
   <img src="https://github.com/divanys/divanys/blob/main/forPhoto/bttv_hlam-512px-7origs.gif" width="100" align="left" фроги прыгает во все 4 стороны>
   <img src="https://github.com/divanys/divanys/blob/main/forPhoto/bttv_hlam-512px-10.gif" width="100">
@@ -28,4 +36,11 @@
 <div id="zhopa">
     <img src="https://github.com/divanys/divanys/blob/main/forPhoto/bttv_hlam-512px-7-copy-1.gif" width="100" align="left" фроги прыгает во все 4 стороны>
     <img src="https://github.com/divanys/divanys/blob/main/forPhoto/bttv_hlam-512px-7-copy-0.gif" width="100" align="right" фроги прыгает во все 4 стороны>
+</div>
+<br>
+
+<div id="stat" align="center">
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divanys&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=divanys&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=divanys&theme=github_dark"/>
 </div>
