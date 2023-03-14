@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336ABC7&lines=a+great+programmer+programs)](https://git.io/typing-svg)
 
+![Linux](https://img.shields.io/badge/-Linux-010006?style=for-the-badge&logo=Linux)
 ![Python](https://img.shields.io/badge/-Python-010006?style=for-the-badge&logo=python)
 ![NumPy](https://img.shields.io/badge/-NumPy-010006?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-010006?style=for-the-badge&logo=pandas)
