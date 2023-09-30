@@ -5,17 +5,19 @@
 
 ![Linux](https://img.shields.io/badge/-Linux-010006?style=for-the-badge&logo=Linux)
 ![Fedora](https://img.shields.io/badge/-Fedora-010006?style=for-the-badge&logo=Fedora)
+![bioinf](https://img.shields.io/badge/-bioinf-010006?style=for-the-badge&logo=bioinf)
 ![Python](https://img.shields.io/badge/-Python-010006?style=for-the-badge&logo=python)
+![Sql](https://img.shields.io/badge/-SQLite-010006?style=for-the-badge&logo=sqlite)
+![Java](https://img.shields.io/badge/-Java-010006?style=for-the-badge&logo=java)
+![C++](https://img.shields.io/badge/-C++-010006?style=for-the-badge&logo=cplusplus)
+![JS](https://img.shields.io/badge/-JS-010006?style=for-the-badge&logo=javascript)
+![Erlang](https://img.shields.io/badge/-Erlang-010006?style=for-the-badge&logo=erlang)
+![PHP](https://img.shields.io/badge/-PHP-010006?style=for-the-badge&logo=php)
 ![NumPy](https://img.shields.io/badge/-NumPy-010006?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-010006?style=for-the-badge&logo=pandas)
 ![Django](https://img.shields.io/badge/-Django-010006?style=for-the-badge&logo=django)
-![JS](https://img.shields.io/badge/-JS-010006?style=for-the-badge&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-010006?style=for-the-badge&logo=php)
-![Erlang](https://img.shields.io/badge/-Erlang-010006?style=for-the-badge&logo=erlang)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-010006?style=for-the-badge&logo=postgresql)
-![Sql](https://img.shields.io/badge/-SQLite-010006?style=for-the-badge&logo=sqlite)
-![C++](https://img.shields.io/badge/-C++-010006?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/-Java-010006?style=for-the-badge&logo=java)
+
 
 
 
