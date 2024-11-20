@@ -12,7 +12,6 @@
 ![C++](https://img.shields.io/badge/-C++-010006?style=for-the-badge&logo=cplusplus)
 ![JS](https://img.shields.io/badge/-JS-010006?style=for-the-badge&logo=javascript)
 ![Erlang](https://img.shields.io/badge/-Erlang-010006?style=for-the-badge&logo=erlang)
-![PHP](https://img.shields.io/badge/-PHP-010006?style=for-the-badge&logo=php)
 ![NumPy](https://img.shields.io/badge/-NumPy-010006?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-010006?style=for-the-badge&logo=pandas)
 ![Django](https://img.shields.io/badge/-Django-010006?style=for-the-badge&logo=django)
